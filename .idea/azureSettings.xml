@@ -2,8 +2,13 @@
 <project version="4">
   <component name="AzureSettings">
     <option name="appInsights" value="rO0ABXVyAEtbTGNvbS5taWNyb3NvZnQuYXBwbGljYXRpb25pbnNpZ2h0cy5wcmVmZXJlbmNlLkFwcGxpY2F0aW9uSW5zaWdodHNSZXNvdXJjZTvCzxEP0C2HbAIAAHhwAAAAAA==" />
+    <option name="publishProfile" value="rO0ABXVyAEVbTGNvbS5taWNyb3NvZnRvcGVudGVjaG5vbG9naWVzLmF6dXJlY29tbW9ucy5kZXBsb3kudXRpbC5QdWJsaXNoRGF0YTuK0nTdtuHO1gIAAHhwAAAAAA==" />
+    <option name="webApps" value="rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAB3CAAAABAAAAAAeA==" />
     <option name="properties">
       <map>
+        <entry key="com.microsoft.intellij.AzureSubscriptions" value="{}" />
+        <entry key="com.microsoft.intellij.AzureUserInfo" value="null" />
+        <entry key="com.microsoft.intellij.AzureUserSubscriptions" value="{&quot;2db2ee2d-1911-4fe8-b44e-528c3ba13983&quot;:{&quot;tenantId&quot;:&quot;fb3a8ec4-d825-4b44-ade5-2ddc22912790&quot;,&quot;uniqueName&quot;:&quot;shashwat_c@hotmail.com&quot;},&quot;6998a2dd-0f6a-4b2c-9536-d67a7a9a2809&quot;:{&quot;tenantId&quot;:&quot;fb3a8ec4-d825-4b44-ade5-2ddc22912790&quot;,&quot;uniqueName&quot;:&quot;shashwat_c@hotmail.com&quot;},&quot;0067c949-a847-4b09-b8df-3e102def5632&quot;:{&quot;tenantId&quot;:&quot;fb3a8ec4-d825-4b44-ade5-2ddc22912790&quot;,&quot;uniqueName&quot;:&quot;shashwat_c@hotmail.com&quot;},&quot;4442abc5-29aa-429a-a758-40f0abdf841c&quot;:{&quot;tenantId&quot;:&quot;fb3a8ec4-d825-4b44-ade5-2ddc22912790&quot;,&quot;uniqueName&quot;:&quot;shashwat_c@hotmail.com&quot;},&quot;6c03a826-40fb-459e-b475-d738c1ccf549&quot;:{&quot;tenantId&quot;:&quot;56fa4591-c44c-4e46-ae8d-e64a5025a876&quot;,&quot;uniqueName&quot;:&quot;shashwat_c@hotmail.com&quot;}}" />
         <entry key="com.microsoft.intellij.PluginVersion" value="0.1.1" />
       </map>
     </option>

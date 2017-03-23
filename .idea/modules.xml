@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Web-App-On-Azure.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Web-App-On-Azure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaonazure04/javaonazure04.iml" filepath="$PROJECT_DIR$/javaonazure04/javaonazure04.iml" />
     </modules>
   </component>
 </project>
